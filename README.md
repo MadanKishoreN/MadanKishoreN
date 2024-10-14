@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nmadankishore@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bZ48RYU2A-EBmtuUn_GG7l_ldlVTRjZm/view?usp=drive_link](https://drive.google.com/file/d/1bZ48RYU2A-EBmtuUn_GG7l_ldlVTRjZm/view?usp=drive_link)
+- 📄 Know about my experiences [https://madankishorecv.tiiny.site/](https://madankishorecv.tiiny.site/)
 
 - ⚡ Fun fact **With coding skills, you can build anything from apps to websites and beyond! 🌟🚀**
 

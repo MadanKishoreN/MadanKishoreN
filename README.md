@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madan Kishore N</h1>
-<h3 align="center">Passionate about Web Development 💻, Software Engineering 🔧, and Data Analysis 📊. Committed to creating innovative solutions that drive impactful results. 🌟</h3>
+<h3 align="center">
+  I'm an aspiring software engineer from India 🇮🇳, passionate about Web Development 💻 and Data Analysis 📊. 
+  Committed to creating innovative solutions that drive impactful results. 🌟
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madankishoren&label=Profile%20views&color=0e75b6&style=flat-square" alt="madankishoren" />

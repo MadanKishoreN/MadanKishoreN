@@ -58,7 +58,8 @@
 
 ### Let's connect and create something amazing together! 🚀
 
----
+![snake gif](https://github.com/MadanKishoreN/MadanKishoreN/blob/output/github-snake-dark.svg)
+
 
 ### Thanks for visiting my profile! 🌟
 Feel free to reach out for collaboration or any questions. 😄

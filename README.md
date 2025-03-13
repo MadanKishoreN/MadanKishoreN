@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Madan Kishore N</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&color=blue&lines=Hi+There!+👋;+I'm+Madan+Kishore+N!;+Aspiring+Software+Engineer!">
+</h1>
+
 <h3 align="center">
   I'm an aspiring software engineer from India 🇮🇳, passionate about Web Development 💻 and Data Analysis 📊. 
   Committed to creating innovative solutions that drive impactful results. 🌟

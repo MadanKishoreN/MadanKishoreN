@@ -58,7 +58,9 @@
 
 ### Let's connect and create something amazing together! 🚀
 <div align="center">
+  
 ![snake gif](https://github.com/MadanKishoreN/MadanKishoreN/blob/output/github-snake-dark.svg)
+
 </div>
 
 ### Thanks for visiting my profile! 🌟
